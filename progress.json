@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T14:36:17.134Z",
+  "generated_at": "2026-09-21T14:57:58.350Z",
   "items": {
     "math:104": {
       "kind": "math",
@@ -48,6 +48,17 @@
       "path": "math/0080-loocv-vs-k-fold-the-bias-variance-of-k",
       "first_solved_at": "2026-09-21T14:36:16.354Z",
       "last_pushed_at": "2026-09-21T14:36:16.354Z"
+    },
+    "math:118": {
+      "kind": "math",
+      "id": "118",
+      "title": "Interpolation and Double Descent",
+      "difficulty": "hard",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/118",
+      "path": "math/0118-interpolation-and-double-descent",
+      "first_solved_at": "2026-09-21T14:57:57.554Z",
+      "last_pushed_at": "2026-09-21T14:57:57.554Z"
     }
   }
 }
