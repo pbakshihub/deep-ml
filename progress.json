@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T08:06:59.352Z",
+  "generated_at": "2026-09-21T12:15:46.708Z",
   "items": {
     "math:104": {
       "kind": "math",
@@ -11,6 +11,19 @@
       "path": "math/0104-training-error-test-error-and-the-bayes-rate",
       "first_solved_at": "2026-09-21T08:06:43.716Z",
       "last_pushed_at": "2026-09-21T08:06:43.716Z"
+    },
+    "problem:275": {
+      "kind": "problem",
+      "id": "275",
+      "title": "Implement Stratified Train-Test Split",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/275",
+      "path": "problems/0275-implement-stratified-train-test-split",
+      "first_solved_at": "2026-09-21T12:15:45.329Z",
+      "last_pushed_at": "2026-09-21T12:15:45.329Z",
+      "language": "python",
+      "lines": 41
     }
   }
 }
