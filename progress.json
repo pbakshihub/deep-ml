@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T14:27:19.702Z",
+  "generated_at": "2026-09-21T14:36:17.134Z",
   "items": {
     "math:104": {
       "kind": "math",
@@ -37,6 +37,17 @@
       "last_pushed_at": "2026-09-21T14:27:18.762Z",
       "language": "python",
       "lines": 37
+    },
+    "math:80": {
+      "kind": "math",
+      "id": "80",
+      "title": "LOOCV vs $k$-Fold: the Bias-Variance of $k$",
+      "difficulty": "medium",
+      "category": "Statistical Inference",
+      "url": "https://www.deep-ml.com/math-problems/80",
+      "path": "math/0080-loocv-vs-k-fold-the-bias-variance-of-k",
+      "first_solved_at": "2026-09-21T14:36:16.354Z",
+      "last_pushed_at": "2026-09-21T14:36:16.354Z"
     }
   }
 }
