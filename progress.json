@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T14:57:58.350Z",
+  "generated_at": "2026-09-28T08:10:07.549Z",
   "items": {
     "math:104": {
       "kind": "math",
@@ -59,6 +59,19 @@
       "path": "math/0118-interpolation-and-double-descent",
       "first_solved_at": "2026-09-21T14:57:57.554Z",
       "last_pushed_at": "2026-09-21T14:57:57.554Z"
+    },
+    "problem:1268": {
+      "kind": "problem",
+      "id": "1268",
+      "title": "Tensor Puzzle: Ones Vector from First Principles",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1268",
+      "path": "problems/1268-tensor-puzzle-ones-vector-from-first-principles",
+      "first_solved_at": "2026-09-28T08:10:06.695Z",
+      "last_pushed_at": "2026-09-28T08:10:06.695Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
