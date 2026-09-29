@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**10** solved · 7 problems · 0 labs · 3 math
+**11** solved · 7 problems · 0 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -27,6 +27,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [LOOCV vs $k$-Fold: the Bias-Variance of $k$](https://www.deep-ml.com/math-problems/80) | medium | 2026-09-21 | [solution](math/0080-loocv-vs-k-fold-the-bias-variance-of-k) |
 | [Training Error, Test Error and the Bayes Rate](https://www.deep-ml.com/math-problems/104) | medium | 2026-09-21 | [solution](math/0104-training-error-test-error-and-the-bayes-rate) |
 | [Interpolation and Double Descent](https://www.deep-ml.com/math-problems/118) | hard | 2026-09-21 | [solution](math/0118-interpolation-and-double-descent) |
+| [Matrix Completion and Missing Values](https://www.deep-ml.com/math-problems/122) | hard | 2026-09-29 | [solution](math/0122-matrix-completion-and-missing-values) |
 
 ---
 
