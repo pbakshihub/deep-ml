@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T12:28:39.499Z",
+  "generated_at": "2026-09-29T12:41:14.078Z",
   "items": {
     "math:104": {
       "kind": "math",
@@ -135,6 +135,19 @@
       "path": "math/0122-matrix-completion-and-missing-values",
       "first_solved_at": "2026-09-29T12:28:38.402Z",
       "last_pushed_at": "2026-09-29T12:28:38.402Z"
+    },
+    "problem:1131": {
+      "kind": "problem",
+      "id": "1131",
+      "title": "Clean a Messy Dataset: Dedup, Standardize, Impute",
+      "difficulty": "medium",
+      "category": "Pandas",
+      "url": "https://www.deep-ml.com/problems/1131",
+      "path": "problems/1131-clean-a-messy-dataset-dedup-standardize-impute",
+      "first_solved_at": "2026-09-29T12:41:13.410Z",
+      "last_pushed_at": "2026-09-29T12:41:13.410Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
