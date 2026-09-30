@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**12** solved · 8 problems · 0 labs · 4 math
+**13** solved · 8 problems · 1 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Clean a Messy Dataset: Dedup, Standardize, Impute](https://www.deep-ml.com/problems/1131) | medium | 2026-09-29 | [solution](problems/1131-clean-a-messy-dataset-dedup-standardize-impute) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-09-21 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement Stratified Train-Test Split](https://www.deep-ml.com/problems/275) | medium | 2026-09-21 | [solution](problems/0275-implement-stratified-train-test-split) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Data Preprocessing: Handling Missing Values](https://www.deep-ml.com/labs/11) | medium | 2026-09-30 | [solution](labs/0011-data-preprocessing-handling-missing-values) |
 
 ## Math
 
