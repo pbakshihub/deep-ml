@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T15:27:33.133Z",
+  "generated_at": "2026-10-25T15:02:13.290Z",
   "items": {
     "math:104": {
       "kind": "math",
@@ -296,6 +296,19 @@
       "last_pushed_at": "2026-10-24T15:27:32.543Z",
       "language": "python",
       "lines": 27
+    },
+    "problem:1144": {
+      "kind": "problem",
+      "id": "1144",
+      "title": "Online Mean and Variance with Welford's Algorithm",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1144",
+      "path": "problems/1144-online-mean-and-variance-with-welford-s-algorithm",
+      "first_solved_at": "2026-10-25T15:02:12.692Z",
+      "last_pushed_at": "2026-10-25T15:02:12.692Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
